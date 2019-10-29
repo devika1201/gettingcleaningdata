@@ -1,21 +1,21 @@
-##There are three core variables:
+#There are three core variables:
 
 1. Main
 2. Test 
 3. Train
 
-Main : activity_labels Inertial Signals Inertial Signals 
-Test: features subject_test subject_train 
-Train: features.info X_test X_train
+*Main : activity_labels Inertial Signals Inertial Signals 
+*Test: features subject_test subject_train 
+*Train: features.info X_test X_train
 
 #4 basic level data sets will be defined and created:
 
-test data set
-train data set
-features data set
-activity labels data set
+*test data set
+*train data set
+*features data set
+*activity labels data set
 
-#Below steps are performed in the run_analysis.R script
+###Below steps are performed in the run_analysis.R script
 Reading training tables - xtrain / ytrain, subject train
 Reading the testing tables
 Read the features data
