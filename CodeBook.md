@@ -1,6 +1,6 @@
 # Tidy data set description
 
-### The variables in the tidy data
+### Describes the variables,the data and work performed to clean up the data.Tidy data set is the output.
 Tidy data contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
 
 ### Only the variables estimated from mean and standard deviation in the tidy set were kept.
